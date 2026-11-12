@@ -1,14 +1,14 @@
-<<<<<<< HEAD
+ HEAD
 # Secret files
 credentials/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-=======
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
->>>>>>> 18ed17220b644320b0851ccbcfe617512c1642f5
+18ed17220b644320b0851ccbcfe617512c1642f5
 *.py[codz]
 *$py.class
 
@@ -226,8 +226,8 @@ marimo/_lsp/
 __marimo__/
 
 # Streamlit
-<<<<<<< HEAD
+ HEAD
 .streamlit/secrets.toml
-=======
+
 .streamlit/secrets.toml
->>>>>>> 18ed17220b644320b0851ccbcfe617512c1642f5
+ 18ed17220b644320b0851ccbcfe617512c1642f5
