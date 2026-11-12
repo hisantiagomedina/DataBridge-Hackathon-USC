@@ -86,4 +86,4 @@ http://localhost:8000/docs
 ```
 
 ## Desarrollador
-Hecho por Santiago M. @ Noviembre 12-13 / 2026
+Hecho por Santiago M. @ Noviembre 13-14 / 2026
